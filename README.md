@@ -63,4 +63,3 @@ Deep learning model implementation
 
 Feature selection techniques
 
-Deployment using Flask/Streamlit/API
